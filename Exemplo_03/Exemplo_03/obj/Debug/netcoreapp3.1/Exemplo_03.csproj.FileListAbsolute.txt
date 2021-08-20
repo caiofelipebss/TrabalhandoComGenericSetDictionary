@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\bin\Debug\netcoreapp3.1\Exemplo_03.exe
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\bin\Debug\netcoreapp3.1\Exemplo_03.deps.json
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\bin\Debug\netcoreapp3.1\Exemplo_03.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\bin\Debug\netcoreapp3.1\Exemplo_03.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\bin\Debug\netcoreapp3.1\Exemplo_03.dll
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\bin\Debug\netcoreapp3.1\Exemplo_03.pdb
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\obj\Debug\netcoreapp3.1\Exemplo_03.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\obj\Debug\netcoreapp3.1\Exemplo_03.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\obj\Debug\netcoreapp3.1\Exemplo_03.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\obj\Debug\netcoreapp3.1\Exemplo_03.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\obj\Debug\netcoreapp3.1\Exemplo_03.dll
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\obj\Debug\netcoreapp3.1\Exemplo_03.pdb
+D:\ADS\C# Nelio Alves\Aulas\Generics, Set, Dictionary\Exemplo_03\Exemplo_03\obj\Debug\netcoreapp3.1\Exemplo_03.genruntimeconfig.cache
